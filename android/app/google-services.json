@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317531017867",
+    "project_id": "smart-campus-navi",
+    "storage_bucket": "smart-campus-navi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317531017867:android:b9e3cfde0b970b25ac3a8e",
+        "android_client_info": {
+          "package_name": "com.smartcampus.smart_campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317531017867-337tkivqnuu6u716esqh6h7dc3tfcjbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcampus.smart_campus",
+            "certificate_hash": "60cd291d7499b5cc90472467f32e205b2609ef71"
+          }
+        },
+        {
+          "client_id": "317531017867-cl0aa2u3rp13tuoedj043avc8l7pjc9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIuzG-RVLpAK6nCce0cLQTdMtisHGQIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317531017867-cl0aa2u3rp13tuoedj043avc8l7pjc9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

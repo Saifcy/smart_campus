@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "main_building",
+    "name": "Mainstream Building",
+    "type": "building",
+    "building": null,
+    "coordinates": {
+      "latitude": 30.09952, 
+      "longitude": 31.24887
+    },
+    "floor": 0,
+    "description": "Main academic building"
+  },
+  {
+    "id": "credit_building",
+    "name": "Credit Building",
+    "type": "building",
+    "building": null,
+    "coordinates": {
+      "latitude": 30.09975, 
+      "longitude": 31.24782
+    },
+    "floor": 0,
+    "description": "Credit Building"
+  },
+  {
+    "id": "lab_001",
+    "name": "Lab 001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 0,
+    "description": "Lab in the Mainstream Building"
+  },
+  {
+    "id": "lab_002",
+    "name": "Lab 002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 0,
+    "description": "Lab in the Mainstream Building"
+  },
+  {
+    "id": "lab_003",
+    "name": "Lab 003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 0,
+    "description": "Lab in the Mainstream Building"
+  },
+  {
+    "id": "lab_004",
+    "name": "Lab 004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 0,
+    "description": "Lab in the Mainstream Building"
+  },
+  {
+    "id": "lab_005",
+    "name": "Lab 005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 0,
+    "description": "Lab in the Mainstream Building"
+  },
+  {
+    "id": "lab_006",
+    "name": "lab 006",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_00",
+    "name": "lab 00",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09935, 
+      "longitude": 31.24782
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_01",
+    "name": "lab 01",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24787
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_02",
+    "name": "lab 02",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24787
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_03",
+    "name": "lab 03",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24787
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_04",
+    "name": "lab 04",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24777
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_05",
+    "name": "lab 05",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_06",
+    "name": "lab 06",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24777
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "lab_a",
+    "name": "lab A",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.10017, 
+      "longitude": 31.24782
+    },
+    "floor": 0,
+    "description": "Lab in the Credit Building"
+  },
+  {
+    "id": "room_1001",
+    "name": "Room 1001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_1002",
+    "name": "Room 1002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_1003",
+    "name": "Room 1003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_1004",
+    "name": "Room 1004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_1005",
+    "name": "Room 1005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_1006",
+    "name": "Room 1006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 1,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2001",
+    "name": "Room 2001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2002",
+    "name": "Room 2002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2003",
+    "name": "Room 2003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2004",
+    "name": "Room 2004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2005",
+    "name": "Room 2005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_2006",
+    "name": "Room 2006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 2,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3001",
+    "name": "Room 3001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3002",
+    "name": "Room 3002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3003",
+    "name": "Room 3003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3004",
+    "name": "Room 3004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3005",
+    "name": "Room 3005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_3006",
+    "name": "Room 3006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 3,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4001",
+    "name": "Room 4001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4002",
+    "name": "Room 4002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4003",
+    "name": "Room 4003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4004",
+    "name": "Room 4004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4005",
+    "name": "Room 4005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_4006",
+    "name": "Room 4006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 4,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5001",
+    "name": "Room 5001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5002",
+    "name": "Room 5002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5003",
+    "name": "Room 5003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5004",
+    "name": "Room 5004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5005",
+    "name": "Room 5005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_5006",
+    "name": "Room 5006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 5,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6001",
+    "name": "Room 6001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6002",
+    "name": "Room 6002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6003",
+    "name": "Room 6003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6004",
+    "name": "Room 6004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6005",
+    "name": "Room 6005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_6006",
+    "name": "Room 6006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 6,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7001",
+    "name": "Room 7001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7002",
+    "name": "Room 7002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7003",
+    "name": "Room 7003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7004",
+    "name": "Room 7004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7005",
+    "name": "Room 7005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_7006",
+    "name": "Room 7006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 7,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8001",
+    "name": "Room 8001",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09939, 
+      "longitude": 31.24855
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8002",
+    "name": "Room 8002",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24886
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8003",
+    "name": "Room 8003",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09940, 
+      "longitude": 31.24918
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8004",
+    "name": "Room 8004",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09964, 
+      "longitude": 31.24854
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8005",
+    "name": "Room 8005",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24885
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_8006",
+    "name": "Room 8006",
+    "type": "room",
+    "building": "Mainstream Building",
+    "coordinates": {
+      "latitude": 30.09965, 
+      "longitude": 31.24918
+    },
+    "floor": 8,
+    "description": "Room in the Mainstream Building"
+  },
+  {
+    "id": "room_100",
+    "name": "Room 100",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09935, 
+      "longitude": 31.24782
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_101",
+    "name": "Room 101",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24787
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_102",
+    "name": "Room 102",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24787
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_103",
+    "name": "Room 103",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24787
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_104",
+    "name": "Room 104",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24777
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_105",
+    "name": "Room 105",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_106",
+    "name": "Room 106",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24777
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_a",
+    "name": "Room A",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.10017, 
+      "longitude": 31.24782
+    },
+    "floor": 1,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_200",
+    "name": "Room 200",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09935, 
+      "longitude": 31.24782
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_201",
+    "name": "Room 201",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24787
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_202",
+    "name": "Room 202",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24787
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_203",
+    "name": "Room 203",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_204",
+    "name": "Room 204",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24777
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_205",
+    "name": "Room 205",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_206",
+    "name": "Room 206",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24777
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_300",
+    "name": "Room 300",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09935, 
+      "longitude": 31.24782
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_301",
+    "name": "Room 301",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24787
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_302",
+    "name": "Room 302",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24787
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_303",
+    "name": "Room 303",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_304",
+    "name": "Room 304",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24777
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_305",
+    "name": "Room 305",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_306",
+    "name": "Room 306",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24777
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_400",
+    "name": "Room 400",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09935, 
+      "longitude": 31.24782
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_401",
+    "name": "Room 401",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24787
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_402",
+    "name": "Room 402",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24787
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_403",
+    "name": "Room 403",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_404",
+    "name": "Room 404",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09997, 
+      "longitude": 31.24777
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_405",
+    "name": "Room 405",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09976, 
+      "longitude": 31.24777
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_406",
+    "name": "Room 406",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.09954, 
+      "longitude": 31.24777
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_b",
+    "name": "Room B",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.10017, 
+      "longitude": 31.24782
+    },
+    "floor": 2,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_c",
+    "name": "Room C",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.10017, 
+      "longitude": 31.24782
+    },
+    "floor": 3,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "room_d",
+    "name": "Room D",
+    "type": "room",
+    "building": "Credit Building",
+    "coordinates": {
+      "latitude": 30.10017, 
+      "longitude": 31.24782
+    },
+    "floor": 4,
+    "description": "Room in the Credit Building"
+  },
+  {
+    "id": "t_buildings",
+    "name": "T Building",
+    "type": "building",
+    "building": null,
+    "coordinates": {
+      "latitude": 30.09947, 
+      "longitude": 31.24804
+    },
+    "floor": 0,
+    "description": "T Building"
+  },
+  {
+    "id": "room_t0",
+    "name": "Room T0",
+    "type": "room",
+    "building": "T Building",
+    "coordinates": {
+      "latitude": 30.09945, 
+      "longitude": 31.24804
+    },
+    "floor": 0,
+    "description": "Room in the T Building"
+  },
+  {
+    "id": "room_t1",
+    "name": "Room T1",
+    "type": "room",
+    "building": "T Building",
+    "coordinates": {
+      "latitude": 30.09945, 
+      "longitude": 31.24804
+    },
+    "floor": 1,
+    "description": "Room in the T Building"
+  },
+  {
+    "id": "room_t2",
+    "name": "Room T2",
+    "type": "room",
+    "building": "T Building",
+    "coordinates": {
+      "latitude": 30.10016,
+      "longitude": 31.24782
+    },
+    "floor": 2,
+    "description": "Room in the T Building"
+  }
+] 

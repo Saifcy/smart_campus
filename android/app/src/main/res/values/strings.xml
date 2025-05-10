@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Campus</string>
+    <!-- Firebase configuration values -->
+    <string name="google_api_key">AIzaSyCMB-z-gw4ZAoJ-UbXqsDUMpqnFgFN4wZA</string>
+    <string name="google_app_id">1:123456789012:android:1234567890123456</string>
+    <string name="firebase_database_url">https://smart-campus-demo-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">123456789012</string>
+    <string name="google_storage_bucket">smart-campus-demo.appspot.com</string>
+    <string name="project_id">smart-campus-demo</string>
+    <string name="default_notification_channel_id">general_channel</string>
+</resources> 

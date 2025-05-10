@@ -1,0 +1,28 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.smartcampus.smart_campus">
+    <!-- The INTERNET permission is required for development. Specifically,
+         the Flutter tool needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+    <!-- Additional debugging permissions -->
+    <application android:usesCleartextTraffic="true">
+        <!-- Enable debugging for OAuth redirects -->
+        <activity
+            android:name="com.smartcampus.smart_campus.MainActivity"
+            android:exported="true"
+            tools:replace="android:launchMode"
+            android:launchMode="singleTask">
+            <!-- Add intent filter for OAuth callback -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Accepts URIs that begin with "com.smartcampus.smart_campus://" -->
+                <data android:scheme="com.smartcampus.smart_campus" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

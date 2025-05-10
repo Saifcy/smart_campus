@@ -1,0 +1,127 @@
+{
+  "campus": {
+    "name": "Smart Campus",
+    "center": {
+      "lat": 30.099635151230682,
+      "lng": 31.248591011030316
+    },
+    "zoom": 18.5
+  },
+  "buildings": [
+    {
+      "id": "main_building",
+      "name": "Main Building",
+      "position": {
+        "lat": 30.099470,
+        "lng": 31.248860
+      },
+      "floors": 8,
+      "color": "4169E1",
+      "borderWidth": 2.0,
+      "polygon": [
+        {"lat": 30.099637155233616, "lng": 31.249285233842937},
+        {"lat": 30.09962787313153, "lng": 31.248418880374317},
+        {"lat": 30.099294877142572, "lng": 31.24842558589652},
+        {"lat": 30.09933316593706, "lng": 31.249297303782903}
+      ]
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "position": {
+        "lat": 30.099460,
+        "lng": 31.248330
+      },
+      "floors": 1,
+      "color": "4CAF50",
+      "borderWidth": 2.0,
+      "polygon": [
+        {"lat": 30.0993169222072, "lng": 31.248429609190254},
+        {"lat": 30.09931228114125, "lng": 31.24823380794193},
+        {"lat": 30.099606988397984, "lng": 31.248228443524166},
+        {"lat": 30.099612789713106, "lng": 31.2484081515192}
+      ]
+    },
+    {
+      "id": "t_buildings",
+      "name": "T1 & T2 Building",
+      "position": {
+        "lat": 30.099470,
+        "lng": 31.248050
+      },
+      "floors": 2,
+      "color": "009688",
+      "borderWidth": 2.0,
+      "polygon": [
+        {"lat": 30.099644116808953, "lng": 31.24822978462861},
+        {"lat": 30.099296037408617, "lng": 31.248244536777456},
+        {"lat": 30.099282114207124, "lng": 31.24786500422077},
+        {"lat": 30.0995942255035, "lng": 31.24787036863853}
+      ]
+    },
+    {
+      "id": "credit_building",
+      "name": "Credit Building",
+      "position": {
+        "lat": 30.099750,
+        "lng": 31.247820
+      },
+      "floors": 4,
+      "color": "FF9800",
+      "borderWidth": 2.0,
+      "polygon": [
+        {"lat": 30.099304159277732, "lng": 31.24789450851578},
+        {"lat": 30.09929835794449, "lng": 31.247744304818433},
+        {"lat": 30.100196018884958, "lng": 31.247732399383597},
+        {"lat": 30.100206461189728, "lng": 31.247891990812025}
+      ]
+    }
+  ],
+  "floors": [
+    {
+      "level": 0,
+      "name": "Basement",
+      "buildings": ["main_building", "garden", "t_buildings", "credit_building"]
+    },
+    {
+      "level": 1,
+      "name": "Floor 1",
+      "buildings": ["main_building", "t_buildings", "credit_building"]
+    },
+    {
+      "level": 2,
+      "name": "Floor 2",
+      "buildings": ["main_building", "t_buildings", "credit_building"]
+    },
+    {
+      "level": 3,
+      "name": "Floor 3",
+      "buildings": ["main_building", "credit_building"]
+    },
+    {
+      "level": 4,
+      "name": "Floor 4",
+      "buildings": ["main_building", "credit_building"]
+    },
+    {
+      "level": 5,
+      "name": "Floor 5",
+      "buildings": ["main_building"]
+    },
+    {
+      "level": 6,
+      "name": "Floor 6",
+      "buildings": ["main_building"]
+    },
+    {
+      "level": 7,
+      "name": "Floor 7",
+      "buildings": ["main_building"]
+    },
+    {
+      "level": 8,
+      "name": "Floor 8",
+      "buildings": ["main_building"]
+    }
+  ]
+} 
